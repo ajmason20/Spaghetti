@@ -1,1 +1,1 @@
-const a = 'apple';
+const a = 'shit stained ballz';
